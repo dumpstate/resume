@@ -1,0 +1,122 @@
+{
+  "basics": {
+    "name": "Albert Sadowski",
+    "email": "asadowski@mailbox.org",
+    "phone": "+44-(0)-7599155277",
+    "summary": "Lorem ipsum...",
+    "location": {
+      "city": "London",
+      "countryCode": "UK"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "dumpstate",
+        "url": "https://github.com/dumpstate"
+      },
+      {
+        "network": "Mastodon",
+        "username": "@dumpstate@techhub.social",
+        "url": "https://techhub.social/@dumpstate"
+      },
+      {
+        "network": "LinkedIn",
+        "url": "https://www.linkedin.com/in/albertsadowski"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Globality, Inc.",
+      "position": "Engineering Manager / Tech Lead",
+      "startDate": "2022-03-01"
+    },
+    {
+      "name": "Globality, Inc.",
+      "position": "Staff Software Engineer / Tech Lead",
+      "startDate": "2021-03-01",
+      "endDate": "2022-02-28"
+    },
+    {
+      "name": "Globality, Inc.",
+      "position": "Senior Software Engineer II",
+      "startDate": "2019-10-01",
+      "endDate": "2021-02-28"
+    },
+    {
+      "name": "Independent Consultant",
+      "position": "Self-employed",
+      "startDate": "2013-09-01",
+      "endDate": "2019-10-31",
+      "summary": "**TCDI, Inc** (Jun 2017 - Oct 2019)\n\n*Skills: Java, Dropwizard, PostgreSQL, Spark, Gradle, Unsupervised Learning, Clustering Algorithms, KNN Search.*\n\n**Samwise Technology, Inc.** (Sep 2016 - Jun 2017)\n\nI was leading the design of system architecture and implementation of multi-tenant system for legal invoice system of record and analytics. The system started as SaaS only, then pivoted to offer both SaaS and desktop application. The challenge was to share as much of the codebase as possible between the SaaS and desktop. Apart from software engineering challenges, I've also designed and implemented ML solutions for invoice analytics - discovery-like use cases (clustering; keyword extraction; summarisation for naming clusters). All the ML solutions were sharing the code between server and desktop.\n\n*Skills: NodeJS, TypeScript, RabbitMQ, AWS (EC2, ECS, RDS), Docker, Ansible, PostgreSQL, SQLite, Electron, TensorFlow (+TensorFlow.js).*\n\n**Dentsu Creative - Isobar** (Sep 2014 - Dec 2014)\n\nDeveloping social media mobile application for Android to boost shopping experience by engaging with friends. I was the only engineer; started from scratch; delivered working product in three months.\n\n*Skills: Java, Android.*\n\n**Powered by PACE** (Apr 2014 - Dec 2014)\n\nDeveloping online photo album editor as a full-stack engineer. Diving deep into HTML5 canvas-based custom visualisations; implementing frontend of the online photo manager with React; designing and implementing REST API (Spring).\n\n*Skills: Java, Spring, MySQL, Maven, AWS, JavaScript, Angular, React, Computer Graphics, HTML5 Canvas.*\n\n**Match-Trade Technologies LLC** (Sep 2013 - Mar 2014)\n\nDeveloping matching engine system with Scala and Akka.\n\n*Skills: Scala, Akka, Vaadin.*"
+    },
+    {
+      "name": "Evojam",
+      "url": "https://evojam.com",
+      "position": "Senior Software Engineer",
+      "startDate": "2015-11-01",
+      "endDate": "2016-09-30",
+      "summary": "At Evojam, I worked on projects ranging from developing MVPs for seed-stage startups to implementing greenfield projects for established businesses.\n\nI was honoured to work with very talented team of smart and seasoned engineers who, in a hindsight, helped me accelerate my career.\n\nI developed skills in software design, architecture, distributed systems, functional programming, agile, leadership."
+    },
+    {
+      "name": "Evojam",
+      "position": "Software Engineer",
+      "startDate": "2015-01-01",
+      "endDate": "2015-10-31"
+    },
+    {
+      "name": "Samsung Electronics R&D Poland",
+      "position": "Junior Software Engineer",
+      "startDate": "2013-03-01",
+      "endDate": "2014-06-30",
+      "summary": "I was a member of the Polish division of the team responsible for implementation and maintenance of Samsung pre-installed Android applications. During that time, I did take part in preparing Galaxy S4 and Galaxy S5 releases. I was delegated to File Manager application and delivered a number of related features, e.g., uniform network drive access. I was honored to work on-site in the Samsung headquarters in South Korea for ~3 months. Over the course of very intense 2013, I was awarded with Quarterly and Top Contributor awards."
+    },
+    {
+      "name": "Samsung Electronics R&D Poland",
+      "position": "Engineering Intern",
+      "startDate": "2012-12-01",
+      "endDate": "2013-02-28",
+      "summary": "Intense Java, C++ and Android SDK training. Working on a number of experimental projects. Having an opportunity to tweak Samsung native applications for Android. Getting familiar with Android OS internals. Learning strategies to work on a massive codebase."
+    },
+    {
+      "name": "Warsaw University of Technology",
+      "position": "Teaching Assistant",
+      "url": "https://ww2.mini.pw.edu.pl",
+      "startDate": "2013-02-01",
+      "endDate": "2013-09-30",
+      "summary": "Leading computer labs for first year CS students:\n- preparing programming exercises for the class,\n- grading,\n- explaining the concepts introduced during the lecture.\n\nC++ was the programming language of the course. The exercises were meant to teach algorithms that rely on some object-oriented representation of the data structures (e.g., linked lists; binary trees; graphs)."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Warsaw University of Technology",
+      "url": "https://ww2.mini.pw.edu.pl",
+      "area": "Computer Science",
+      "studyType": "Bachelor of Science",
+      "startDate": "2009-10-01",
+      "endDate": "2013-01-31"
+    },
+    {
+      "institution": "University of Warsaw",
+      "url": "https://www.wne.uw.edu.pl",
+      "area": "Economics",
+      "studyType": "Bachelor of Arts",
+      "startDate": "2007-10-01",
+      "endDate": "2010-06-30"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Full professional proficiency"
+    },
+    {
+      "language": "Polish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "French",
+      "fluency": "Limited working proficiency"
+    }
+  ]
+}
