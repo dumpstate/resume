@@ -2,7 +2,6 @@
   "basics": {
     "name": "Albert Sadowski",
     "email": "asadowski@mailbox.org",
-    "phone": "+44-(0)-7599155277",
     "summary": "Lorem ipsum...",
     "location": {
       "city": "London",
@@ -13,11 +12,6 @@
         "network": "GitHub",
         "username": "dumpstate",
         "url": "https://github.com/dumpstate"
-      },
-      {
-        "network": "Mastodon",
-        "username": "@dumpstate@techhub.social",
-        "url": "https://techhub.social/@dumpstate"
       },
       {
         "network": "LinkedIn",
